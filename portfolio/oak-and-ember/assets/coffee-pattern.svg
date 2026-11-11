@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="350" viewBox="0 0 420 350">
+<g fill="none" stroke="#986a49" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" opacity=".095">
+<!-- cup -->
+<g transform="translate(43 43) rotate(-12 40 30)"><path d="M8 20h65v29c0 22-12 31-33 31S8 71 8 49z"/><path d="M73 27h12c23 0 23 30-1 30H73"/><path d="M1 85h85"/><path d="M26 8c-11-11 10-13 0-25M46 9c-11-11 10-13 0-25"/></g>
+<!-- coffee beans -->
+<g transform="translate(233 32) rotate(25)"><ellipse cx="15" cy="22" rx="14" ry="22"/><path d="M16 2c-16 14 12 22-2 40"/></g>
+<g transform="translate(265 67) rotate(-22)"><ellipse cx="12" cy="18" rx="11" ry="18"/><path d="M13 2C2 12 23 20 11 34"/></g>
+<!-- croissant -->
+<g transform="translate(282 191) rotate(-13 40 35)"><path d="M8 27C5 10 16 4 31 11c14-13 30-11 42 2 17-5 25 7 19 24-8 18-25 26-40 19C29 64 10 49 8 27z"/><path d="M31 11c-5 17-3 35 10 48M73 13c-13 10-20 28-21 43M10 28c7 9 15 13 25 16M89 34c-8 8-16 12-30 12"/></g>
+<!-- moka pot -->
+<g transform="translate(64 212) rotate(8 35 40)"><path d="M18 35h44l-7 47H26zM21 35l-7-23h54l-6 23M33 11V2h18v9M62 21h16c17 0 15 27-9 27h-6M28 49h26M31 61h20"/></g>
+<!-- leaf sprig -->
+<g transform="translate(192 235) rotate(15)"><path d="M0 71C27 47 31 23 33 0"/><path d="M22 47C-7 42-8 23 6 18c18 1 21 15 16 29zM29 27C51 27 60 10 50 3 34 1 28 11 29 27zM9 63C-9 59-14 45-6 39c13-1 20 9 15 24z"/></g>
+</g>
+<g fill="#ac7954" opacity=".055"><circle cx="174" cy="96" r="3"/><circle cx="373" cy="100" r="2.5"/><circle cx="164" cy="183" r="2.5"/><circle cx="377" cy="306" r="3"/></g>
+</svg>

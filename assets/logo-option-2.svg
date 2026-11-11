@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" role="img" aria-label="Next Step Socials">
+<defs><linearGradient id="teal" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#087e8b"/><stop offset="1" stop-color="#20d2c3"/></linearGradient></defs>
+<!-- All artwork intentionally stays within the 420x100 viewBox -->
+<g transform="translate(10 10)">
+<path d="M12 60 A35 35 0 0 1 70 17" stroke="#bed2d9" stroke-width="4" fill="none" stroke-linecap="round"/>
+<rect x="16" y="48" width="11" height="25" rx="2" fill="#0b8390"/>
+<rect x="32" y="39" width="11" height="34" rx="2" fill="#10a6a8"/>
+<rect x="48" y="28" width="11" height="45" rx="2" fill="#16bdb7"/>
+<path d="M10 75 Q44 68 71 24" fill="none" stroke="url(#teal)" stroke-width="6" stroke-linecap="round"/>
+<path d="M57 23 L79 15 L74 39 Z" fill="#1ccbbf"/>
+</g>
+<path d="M104 19 V81" stroke="#d7e5e7" stroke-width="2"/>
+<text x="119" y="49" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800" letter-spacing="-.6" fill="#132e40">NEXT STEP</text>
+<text x="122" y="77" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="7" fill="#0b9996">SOCIALS</text>
+</svg>
